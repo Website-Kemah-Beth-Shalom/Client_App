@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+/* poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette:wght@400&wdisplay=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600;700;900&display=swap');
+/* roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+/* Jost */
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --primary: #fafafa;
+    --secondary: rgba(255, 243, 227, 1);
+    --accent: #0c65ad;
+
+    /* size */
+    --DesktopSize: 1000px;
+    --NavbarSize: 70px;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}

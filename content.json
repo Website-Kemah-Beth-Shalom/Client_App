@@ -1,0 +1,49 @@
+{
+    "name": "Cendana Motor Graha Raya",
+    "review": [
+        {
+            "name": "Ali",
+            "content": "Pertama kali kebengkel! kokohnya Enak diajak bicaranya, mekaniknya juga TOP. Emang inih yg dibutuhkan kita-kita orang 😄"
+        },
+        {
+            "name": "Stefan",
+            "content": "Selalu kesini kalo service motor! Kebetulan waktu itu Motor matic Xeon saya pernah mati, telepon owner langsung dijemput! 🥳"
+        },
+        {
+            "name": "Wan",
+            "content": "Akhirnya ketemu bengkel yang bagus dan owner-nya ramah! Mekaniknya juga kerjanya cepat dan rapih! Bakal jadi langganan terus nih 👌🏻"
+        }
+    ],
+    "credit": {
+        "name": "Cendana Motor Graha Raya",
+        "creator": "renara.house",
+        "link": "https://www.instagram.com/renara.house/"
+    },
+    "socialmedia": [
+        {
+            "name": "Instagram",
+            "link": "https://www.instagram.com/cendanamotor/",
+            "icon": "@/assets/image/instagram.svg"
+        },
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/cendanamotor/",
+            "icon": "@/assets/image/facebook.svg"
+        },
+        {
+            "name": "Whatsapp",
+            "link": "https://wa.me/6281280000000",
+            "icon": "@/assets/image/whatsapp.svg"
+        },
+        {
+            "name": "Google",
+            "link": "https://wa.me/6281280000000",
+            "icon": "@/assets/image/google.svg"
+        },
+        {
+            "name": "Maps",
+            "link": "https://wa.me/6281280000000",
+            "icon": "@/assets/image/google-maps.svg"
+        }
+    ]
+}
