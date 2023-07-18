@@ -9,7 +9,8 @@ import Image from "@/assets/image/Hero.png";
         <div id="content">
             <div id="top">
                 <h1>
-                    Inclusive care for girls with special needs in all of Zimbabwe
+                    Selamat Datang di Website
+                    Kemah Beth Shalom
                 </h1>
             </div>
             <div id="center">
@@ -40,11 +41,11 @@ import Image from "@/assets/image/Hero.png";
                     Play Video
                 </button>
             </div>
-            <div id="bottom">
+            <!-- <div id="bottom">
                 <p>230 children under our care</p>
                 <span></span>
                 <p>10 years of experience</p>
-            </div>
+            </div> -->
         </div>
     </div>
 </template>
